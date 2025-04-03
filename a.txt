@@ -1,1 +1,3 @@
 step B
+step G
+Step O
